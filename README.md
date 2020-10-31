@@ -1,2 +1,1 @@
-# pubmin-src
-sources for pubmin
+# hello world
